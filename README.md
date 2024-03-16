@@ -25,7 +25,8 @@ Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 boo
 14) What are the top 5 books with the highest ratings and the highest number of reviews?
 15)  How has the number of bestseller books published per year changed over time?
 
-Link for the dataset: Amazon Top 50 Bestselling Books 2009 - 2019 | Kaggle
+## Feedback and Support
+For any queries, feedback or suggestions please reach out to: rohan0804singh@gmail.com
 
 
 
