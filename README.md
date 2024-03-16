@@ -4,9 +4,11 @@ Dataset on Amazon's Top 50 bestselling books from 2009 to 2019. Contains 550 boo
 1) Name- Name of the Book
 2) Author- Author of the Book
 3) User Rating- Amazon User Rating
-4) Price- The price of the book
-5) Year- The year it ranked on the bestseller
-6) Genre- Whether fiction or non fiction
+4) Reviews- Number of written reviews on Amazon
+5) Price- The price of the book
+6) Year- The year it ranked on the bestseller
+7) Genre- Whether fiction or non fiction
+   
 
 ## Problem Statements
 1) How many records are in the dataset?
